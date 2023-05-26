@@ -126,8 +126,12 @@ app.get('/div', (req, res) => {
 });
 
 const port = 3040;
-app.listen(port, () => {
+
+const server = app.listen(port, () => {
   console.log(`Hello, I'm listening on port ${port}`);
 });
+
+module.exports = server;
+
 
 
