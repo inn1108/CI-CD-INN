@@ -1,5 +1,10 @@
 const request = require('supertest');
 const app = require('../calculator');
+const server = app.listen(); 
+
+
+const request = require('supertest');
+const app = require('../calculator');
 
 describe('Calculator', () => {
   it('should add two numbers correctly', async () => {
