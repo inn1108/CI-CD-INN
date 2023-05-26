@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inn1108/CI-CD-New-Test.git"
+    "url": "git+https://github.com/inn1108/CI-CD-INN.git"
   },
   "keywords": [
     "build",
@@ -17,9 +17,9 @@
   "author": "jinwei pei",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inn1108/CI-CD-New-Test/issues"
+    "url": "https://github.com/inn1108/CI-CD-INN.git"
   },
-  "homepage": "https://github.com/inn1108/CI-CD-New-Test#readme",
+  "homepage": "https://github.com/inn1108/CI-CD-INN#readme",
   "devDependencies": {
     "chai": "^4.3.7",
     "mocha": "^10.2.0"
