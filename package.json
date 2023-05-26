@@ -1,0 +1,27 @@
+{
+  "name": "inn",
+  "version": "1.0.0",
+  "description": "CI/CD/TEST",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha ./test/calculator.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inn1108/CI-CD-New-Test.git"
+  },
+  "keywords": [
+    "build",
+    "text"
+  ],
+  "author": "jinwei pei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inn1108/CI-CD-New-Test/issues"
+  },
+  "homepage": "https://github.com/inn1108/CI-CD-New-Test#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
